@@ -1,9 +1,12 @@
 # Digital Banking Project
 
 
-📘 Online Banking Platform – README
+### Online Banking Platform – README
+
+
 🏦 Project Overview
 The Online Banking Platform is a digital initiative designed to enhance customer experience by providing 24/7 access to banking services. This project addresses the limitations of traditional banking hours and reduces dependency on call center support by enabling customers to manage their accounts online.
+
 
 🚨 Problem Statement
 The current banking system has the following challenges:
@@ -250,17 +253,4 @@ Investment and loan management features
 📌 Conclusion
 This Online Banking Platform transforms traditional banking into a modern, digital-first experience. By enabling self-service capabilities, it not only improves customer satisfaction but also significantly reduces operational costs.
 
-If you want, I can also:
-
-
-Convert this into a GitHub-ready README with badges
-
-
-Add API documentation
-
-
-Create user stories or Jira tickets
-
-
-Design a system architecture diagram
 
